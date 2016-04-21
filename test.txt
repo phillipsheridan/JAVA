@@ -1,0 +1,8 @@
+public void return // return void return 
+//void void
+void return void /* return return return */ void public private 
+return "the public or private data is corrupted" // return public
+private return
+
+
+public public
